@@ -13,3 +13,10 @@ body{
         background-color: red;
     }
 }
+
+
+@media screen and (max-width:320px) {
+    body{
+        background-color: yellow;
+    }
+}
