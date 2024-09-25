@@ -17,6 +17,7 @@ img{
     body{
         background-color: red;
     }
+    
     img{
         float:none;
         max-width: 100%;
